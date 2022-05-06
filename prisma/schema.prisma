@@ -19,5 +19,5 @@ model Feedback {
   screenshot String?
 
 
-  @@map("feedback")
+  @@map("feedbacks")
 }
